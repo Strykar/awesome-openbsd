@@ -94,6 +94,7 @@
 * `shell` [Grex](http://grex.org/)
 * `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
+* `shell` [IRCNow](https://ircnow.org/)
 
 ## CI
 
